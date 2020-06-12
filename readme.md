@@ -1,1 +1,1 @@
-StartUp project for the University
+Simple Framework based in Javascript and JQuery for automatic "greetings"
